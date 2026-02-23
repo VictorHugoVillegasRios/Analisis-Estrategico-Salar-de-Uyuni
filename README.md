@@ -5,7 +5,7 @@ Análisis estratégico y dashboard en Power BI para evaluar los modelos de desar
 
 ### Turismo Sostenible vs. Explotación Extractiva de Litio
 
-[![SalrDashboard Ejecutivo](visual/preview_dashboard.png)](visual/Dashboard_Ejecutivo.pdf)
+[![Dashboard Ejecutivo](visual/preview_dashboard.png)](visual/Dashboard_Ejecutivo.pdf)
 
 ## 📖 Resumen del Proyecto
 
