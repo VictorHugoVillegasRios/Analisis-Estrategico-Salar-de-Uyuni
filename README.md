@@ -40,7 +40,7 @@ Este análisis fue desarrollado utilizando un stack tecnológico moderno y metod
 
 **Víctor Hugo Villegas Ríos**
 Consultor Freelance en Análisis y Ciencia de Datos, especializado en Power BI.
-*   **LinkedIn:** [Pega aquí el enlace a tu perfil de LinkedIn]
+*   **LinkedIn:** https://www.linkedin.com/in/victorhugovillegasrios/
 
 ---
 *Este proyecto fue desarrollado como un caso de estudio independiente para demostrar las capacidades del análisis de datos en la evaluación de políticas de desarrollo territorial.*
